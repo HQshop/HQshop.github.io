@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+p{
+    padding: 10px;
+    margin: 20;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    background-color: cadetblue;
+}
