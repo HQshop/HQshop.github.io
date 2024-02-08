@@ -1,0 +1,14 @@
+body{
+    display: grid;
+    grid-template-columns: 50%  50%;
+    background-image: url("https://static.mathem.se/shared/images/recipes/doublelarge/kycklinggryta-med-curry-foto-nurlan-mathem.jpeg");
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+
+.background {
+    background-color: aliceblue;
+    width: fit-content;
+    padding-right: 40px;
+}
